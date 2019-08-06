@@ -1,0 +1,12 @@
+{
+    "name": "baidu.text.api",
+    "version": "1.0.0",
+    "description": "百度图片文字识别的封装",
+    "main": "index.js",
+    "repository": "https://github.com/GameSprite/BaiduTextApi.git",
+    "author": "陈冠州 <1668831812@qq.com>",
+    "license": "MIT",
+    "dependencies": {
+        "request": "^2.88.0"
+    }
+}

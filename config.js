@@ -1,6 +1,6 @@
 /****************************************************
  * 使用BaiduTextAPI的配置信息
- * Edit by : ChenGuanzhou (chenguanzhou@huohua.cn)
+ * Edit by : ChenGuanzhou (1668831812@qq.com)
  * Create at : 2019-08-06 20:19:49
  *****************************************************/
 

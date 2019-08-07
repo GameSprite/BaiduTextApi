@@ -1,0 +1,615 @@
+{
+  "log_id": 77586129298218055,
+  "direction": 0,
+  "words_result_num": 2,
+  "words_result": [
+    {
+      "chars": [
+        {
+          "char": "花",
+          "location": {
+            "width": 36,
+            "top": 0,
+            "left": 0,
+            "height": 60
+          }
+        },
+        {
+          "char": "下",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 75,
+            "height": 60
+          }
+        },
+        {
+          "char": "成",
+          "location": {
+            "width": 38,
+            "top": 0,
+            "left": 115,
+            "height": 60
+          }
+        },
+        {
+          "char": "千",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 173,
+            "height": 60
+          }
+        },
+        {
+          "char": "成",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 232,
+            "height": 60
+          }
+        },
+        {
+          "char": "百",
+          "location": {
+            "width": 38,
+            "top": 0,
+            "left": 292,
+            "height": 60
+          }
+        },
+        {
+          "char": "的",
+          "location": {
+            "width": 38,
+            "top": 0,
+            "left": 350,
+            "height": 60
+          }
+        },
+        {
+          "char": "蜜",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 409,
+            "height": 60
+          }
+        },
+        {
+          "char": "蜂",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 448,
+            "height": 60
+          }
+        },
+        {
+          "char": "嗡",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 508,
+            "height": 60
+          }
+        },
+        {
+          "char": "嗡",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 566,
+            "height": 60
+          }
+        },
+        {
+          "char": "地",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 625,
+            "height": 60
+          }
+        },
+        {
+          "char": "闹",
+          "location": {
+            "width": 38,
+            "top": 0,
+            "left": 685,
+            "height": 60
+          }
+        },
+        {
+          "char": "着",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 743,
+            "height": 60
+          }
+        },
+        {
+          "char": ",",
+          "location": {
+            "width": 32,
+            "top": 0,
+            "left": 795,
+            "height": 60
+          }
+        },
+        {
+          "char": "大",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 860,
+            "height": 60
+          }
+        },
+        {
+          "char": "小",
+          "location": {
+            "width": 38,
+            "top": 0,
+            "left": 920,
+            "height": 60
+          }
+        },
+        {
+          "c har": "的",
+          "location": {
+            "width": 38,
+            "top": 0,
+            "left": 962,
+            "height": 60
+          }
+        },
+        {
+          "char": "蝴",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1021,
+            "height": 60
+          }
+        },
+        {
+          "char": "蝶",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1079,
+            "height": 60
+          }
+        },
+        {
+          "char": "飞",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1138,
+            "height": 60
+          }
+        },
+        {
+          "char": "来",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1198,
+            "height": 60
+          }
+        },
+        {
+          "char": "飞",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1256,
+            "height": 60
+          }
+        },
+        {
+          "char": "去",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1315,
+            "height": 60
+          }
+        },
+        {
+          "char": "。",
+          "location": {
+            "width": 32,
+            "top": 0,
+            "left": 1348,
+            "height": 60
+          }
+        },
+        {
+          "char": "野",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1414,
+            "height": 60
+          }
+        },
+        {
+          "char": "花",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1472,
+            "height": 60
+          }
+        },
+        {
+          "char": "遍",
+          "location": {
+            "width": 38,
+            "top": 0,
+            "left": 1532,
+            "height": 60
+          }
+        },
+        {
+          "char": "地",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1591,
+            "height": 60
+          }
+        },
+        {
+          "char": "是",
+          "location": {
+            "width": 39,
+            "top": 0,
+            "left": 1649,
+            "height ": 60
+          }
+        },
+        {
+          "char": ":",
+          "location": {
+            "width": 33,
+            "top": 0,
+            "left": 1681,
+            "height": 60
+          }
+        }
+      ],
+      "words": "花下成千成百的蜜蜂嗡嗡地闹着,大小的蝴蝶飞来飞去。野花遍地是:",
+      "location": {
+        "width": 1719,
+        "top": 0,
+        "left": 0,
+        "height": 60
+      },
+      "probability": {
+        "variance": 0.001521,
+        "average": 0.990245,
+        "min": 0.789037
+      }
+    },
+    {
+      "chars": [
+        {
+          "char": "杂",
+          "location": {
+            "width": 36,
+            "top": 97,
+            "left": 0,
+            "height": 60
+          }
+        },
+        {
+          "char": "样",
+          "locat ion": {
+            "width": 39,
+            "top": 97,
+            "left": 55,
+            "height": 60
+          }
+        },
+        {
+          "char": "儿",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 115,
+            "height": 60
+          }
+        },
+        {
+          "char": ",",
+          "location": {
+            "width": 32,
+            "top": 97,
+            "left": 166,
+            "hei ght": 60
+          }
+        },
+        {
+          "char": "有",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 232,
+            "height": 60
+          }
+        },
+        {
+          "char": "名",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 291,
+            "height": 60
+          }
+        },
+        {
+          "char": "字",
+          "location": {
+            "width ": 39,
+            "top": 97,
+            "left": 349,
+            "height": 60
+          }
+        },
+        {
+          "char": "的",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 408,
+            "height": 60
+          }
+        },
+        {
+          "char": ",",
+          "location": {
+            "width": 32,
+            "top": 97,
+            "left": 461,
+            "height": 60
+          }
+        },
+        {
+          "char": "没",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 507,
+            "height": 60
+          }
+        },
+        {
+          "char": "名",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 585,
+            "height": 60
+          }
+        },
+        {
+          "char": "字",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 624,
+            "height": 60
+          }
+        },
+        {
+          "char": "的",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 683,
+            "height": 60
+          }
+        },
+        {
+          "char": ",",
+          "location": {
+            "width": 32,
+            "top": 97,
+            "left": 734,
+            "height": 60
+          }
+        },
+        {
+          "char": "散 ",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 800,
+            "height": 60
+          }
+        },
+        {
+          "char": "在",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 858,
+            "height": 60
+          }
+        },
+        {
+          "char": "草",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 918,
+            "height": 60
+          }
+        },
+        {
+          "char": "丛",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 980,
+            "height": 60
+          }
+        },
+        {
+          "char": "里",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 1019,
+            "height": 60
+          }
+        },
+        {
+          "char": "像",
+          "locati on": {
+            "width": 38,
+            "top": 97,
+            "left": 1077,
+            "height": 60
+          }
+        },
+        {
+          "char": "眼",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 1136,
+            "height": 60
+          }
+        },
+        {
+          "char": "睛",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 1195,
+            "height": 60
+          }
+        },
+        {
+          "char": ",",
+          "location": {
+            "width": 32,
+            "top": 97,
+            "left": 1246,
+            "height": 60
+          }
+        },
+        {
+          "char": "像",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 1312,
+            "height": 60
+          }
+        },
+        {
+          "char": "星",
+          "location": {
+            " width": 39,
+            "top": 97,
+            "left": 1370,
+            "height": 60
+          }
+        },
+        {
+          "char": "星",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 1411,
+            "height": 60
+          }
+        },
+        {
+          "char": ",",
+          "location": {
+            "width": 32,
+            "top": 97,
+            "left": 1462,
+            "height": 60
+          }
+        },
+        {
+          "char": "还",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 1528,
+            "height": 60
+          }
+        },
+        {
+          "char": "眨",
+          "location": {
+            "width": 38,
+            "top": 97,
+            "left": 1586,
+            "height": 60
+          }
+        },
+        {
+          "char": "呀",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 1645,
+            "height": 60
+          }
+        },
+        {
+          "char": "眨",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 1704,
+            "height": 60
+          }
+        },
+        {
+          "char": "的",
+          "location": {
+            "width": 39,
+            "top": 97,
+            "left": 1762,
+            "height": 60
+          }
+        },
+        {
+          "char": "。",
+          "location": {
+            "width": 14,
+            "top": 97,
+            "left": 1815,
+            "height": 60
+          }
+        }
+      ],
+      "words": "杂样儿,有名字的,没名字的,散在草丛里像眼睛,像星星,还眨呀眨的。",
+      "location": {
+        "width": 1829,
+        "top": 97,
+        "left": 0,
+        "height": 60
+      },
+      "probability": {
+        "variance": 0.00217,
+        "average": 0.988454,
+        "min": 0.739742
+      }
+    }
+  ]
+}

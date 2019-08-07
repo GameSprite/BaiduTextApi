@@ -1,7 +1,7 @@
 {
     "name": "baidu.text.api",
     "version": "1.0.0",
-    "description": "百度图片文字识别的封装",
+    "description": "百度图片文字识别的封装(针对高精度含位置的api)",
     "main": "index.js",
     "repository": "https://github.com/GameSprite/BaiduTextApi.git",
     "author": "GameSprite <1668831812@qq.com>",

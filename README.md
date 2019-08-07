@@ -1,4 +1,4 @@
-# BaiduTextApi
+# BaiduTextApi 针对高精度含位置
 
 rewrite with nodejs.
 
